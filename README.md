@@ -10,3 +10,4 @@ Uyumluluk: NumPy'nin birçok başka kütüphane (Pandas, Matplotlib, Scikit-lear
 NumPy, veri bilimi, makine öğrenimi, istatistiksel analiz ve genel bilimsel hesaplamalar için temel bir araçtır.
 
 Burada numpy kütüphanesinin kullanımını basitçe gösterdim ve sonunda tüm uygulamaları numpy_uygulama.py dosyasında bir arada sundum.
+Daha fazla bilgi için Numpy resmi sitesine bakabilirsiniz
